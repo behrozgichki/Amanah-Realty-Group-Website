@@ -683,7 +683,7 @@
 		},
 		NLS: {
 			// NLS maps are copyright National library of Scotland.
-			// http://maps.nls.uk/projects/api/index.html
+			// http://maps.nls.uk/projects/api/index-11.html
 			// Please contact NLS for anything other than non-commercial low volume usage
 			//
 			// Map sources: Ordnance Survey 1:1m to 1:63K, 1920s-1940s
