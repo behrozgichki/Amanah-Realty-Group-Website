@@ -22027,8 +22027,8 @@ form label.error {
 
 /*---- CONTACT INFO ----*/
 .inner-pages .bgc {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(32, 51, 100, 0.8)), to(rgba(32, 51, 100, 0.8))), url(../images/bg/bg-testimonials.jpg) no-repeat center center;
-  background: linear-gradient(rgba(32, 51, 100, 0.8), rgba(32, 51, 100, 0.8)), url(../images/bg/bg-testimonials.jpg) no-repeat center center;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(32, 51, 100, 0.8)), to(rgba(32, 51, 100, 0.8))), url(../images/bg/contact-bg.jpg) no-repeat center center;
+  background: linear-gradient(rgba(32, 51, 100, 0.8), rgba(32, 51, 100, 0.8)), url(../images/bg/contact-bg.jpg) no-repeat center center;
   padding: 2rem;
   background-size: cover;
 }
